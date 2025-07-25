@@ -1,8 +1,9 @@
-## Olá! eu sou o Santiago de Quadros
+## Olá! eu sou o Santiago de Quadros, estudante de programação.
 
 - 🔭 Eu ainda não trabalho
 - 🌱 Eu estou estudando JavaScript
 - 😄 Pronomes: Ele/dele
+- 📧 Email: Santiagoquadros9@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SantiagoBr04&show_icons=true&theme=tokyonight" />
