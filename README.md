@@ -1,6 +1,5 @@
 ## Olá! eu sou o Santiago de Quadros, estudante de programação.
 
-- 🔭 Eu ainda não trabalho
 - 🌱 Eu estou estudando JavaScript
 - 😄 Pronomes: Ele/dele
 - 📧 Email: Santiagoquadros9@gmail.com
